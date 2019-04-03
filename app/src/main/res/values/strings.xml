@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">C.LINK</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">http://www.busmovies.com/articlePage%1$d.html</string>
+    <string name="app_store_message">Hey! Check out the latest edition of C.LINK Magazine: https://play.google.com/store/apps/details?id=com.clinkgroup.clink.clink</string>
+    <string name="app_share_title">Share C.LINK</string>
+    <string name="notification_title">New C.LINK</string>
+    <string name="notification_message">Your New C.LINK edition is ready</string>
+    <string name="app_error_network">This application requires a Network Connection</string>
+    <string name="app_loading_webview">Loading Webview</string>
+    <string name="app_loading_webview_error">Oh No there was an error we are trying to fix it</string>
+    <string name="channel_name">C.LINK Notification</string>
+    <string name="channel_description">C.Link notifications are sent through this channel</string>
+    <string name="pageNumberAPI">http:www.busmovies.com/pageNumbers.html</string>
+
+
+</resources>
